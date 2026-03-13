@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "憨人",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T18:33:11.606823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/01_憨人_五月天.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "憨人 - Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_憨人_-_Live_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "出頭天+憨人",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/03_出頭天+憨人_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/04_憨人_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "憨人 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/05_憨人_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/06_憨人_五月天.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/07_憨人_五月天.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "憨人(Live版)[music.migu.cn]",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/08_憨人(Live版)[music.migu.cn]_五月天.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "MayDay 五月天",
+      "has_synced": true,
+      "path": "select/09_憨人_MayDay_五月天.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/10_憨人_五月天.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/11_憨人_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/12_憨人_五月天.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "憨人-2000",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/13_憨人-2000_五月天.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "憨人",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/14_憨人_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "憨人 (Live)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/15_憨人_(Live)_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憨人",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_憨人_Mayday.txt"
+    }
+  ]
+}
